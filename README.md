@@ -24,7 +24,7 @@ My name is Bima Afrizal Malna, just call me Bima
 
 <br />
 
-### Languages and Technologies:
+### My GitHub Stats:
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bimaafrizal&show_icons=true&locale=en&layout=compact" alt="bimaafrizal" /></p>
 
