@@ -7,5 +7,18 @@ My name is Bima Afrizal Malna, just call me Bima
 - 💬 Ask me about anything
 - 📫 How to reach me: bimaafrizalmalna@student.uns.ac.id
 
+### Connect with me:
+
+<!-- [<img align="left" alt="adhiardiansyah" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="Bima Afrizal Malna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Bima Afrizal Malna | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="Adhi Ardiansyah | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Adhi Ardiansyah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+
+<!-- [website]: https://adhiardiansyah.xyz
+[twitter]: https://twitter.com/adhiardiansyah_
+[youtube]: https://www.youtube.com/channel/UCAjuwpJc1k3VL_7oFwVzLOg -->
+[instagram]: https://instagram.com/bimaafrizal_
+[linkedin]: https://www.linkedin.com/in/bima-afrizal-malna-12033b145/diansyah
 <!--
 **bimaafrizal/bimaafrizal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
