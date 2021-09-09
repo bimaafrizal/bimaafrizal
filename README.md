@@ -19,6 +19,18 @@ My name is Bima Afrizal Malna, just call me Bima
 [twitter]: https://twitter.com/adhiardiansyah_
 [youtube]: https://www.youtube.com/channel/UCAjuwpJc1k3VL_7oFwVzLOg -->
 [instagram]: https://instagram.com/bimaafrizal_
-[linkedin]: https://www.linkedin.com/in/bima-afrizal-malna-12033b145/diansyah
+[linkedin]: https://www.linkedin.com/in/bima-afrizal-malna-12033b145
+
+
+<br />
+
+### Languages and Technologies:
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bimaafrizal&show_icons=true&locale=en&layout=compact" alt="bimaafrizal" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bimaafrizal&show_icons=true&locale=en" alt="bimaafrizal" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bimaafrizal&" alt="bimaafrizal" /></p>
+
 <!--
 **bimaafrizal/bimaafrizal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
