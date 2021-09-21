@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Profile views](https://gpvc.arturio.dev/bimaafrizal)
+<br>
 My name is Bima Afrizal Malna, just call me Bima
 
 - 🔭 I’m currently studying at Sebelas Maret University 
