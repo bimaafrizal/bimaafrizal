@@ -4,7 +4,7 @@
 My name is Bima Afrizal Malna, just call me Bima
 
 - 🔭 I’m currently studying at Sebelas Maret University 
-- 🌱 I’m currently learning Java, SQL, Html, CSS, Javascript, and PHP.
+- 🌱 I’m currently learning Java, SQL, Html, CSS, Javascript, Dart, Flutter, and PHP.
 - 💬 Ask me about anything
 - 📫 How to reach me: bimaafrizalmalna@student.uns.ac.id
 
@@ -26,7 +26,7 @@ My name is Bima Afrizal Malna, just call me Bima
 <br />
 
 
-### My GitHub Stats:
+### Language and Tools:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
