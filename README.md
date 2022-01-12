@@ -1,7 +1,11 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<h1 align="center">Hi 👋, I'm Bima Afrizal Malna</h1>
+<h3 align="center">I am Junior Programer. Wish me luck!</h3>
+
 ![Profile views](https://gpvc.arturio.dev/bimaafrizal)
 <br>
-My name is Bima Afrizal Malna, just call me Bima
+<!-- My name is Bima Afrizal Malna, just call me Bima -->
 
 - 🔭 I’m currently studying at Sebelas Maret University 
 - 🌱 I’m currently learning Java, SQL, Html, CSS, Javascript, Dart, Flutter, and PHP.
