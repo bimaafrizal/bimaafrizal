@@ -49,5 +49,7 @@ My name is Bima Afrizal Malna, just call me Bima
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bimaafrizal&" alt="bimaafrizal" /></p>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nakakari" alt="nakakari" /></a> </p>
 <!--
 **bimaafrizal/bimaafrizal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
