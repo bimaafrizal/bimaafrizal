@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning Java, SQL, Html, CSS, Javascript, Dart, Flutter, and PHP.
 - 💬 Ask me about anything
 - 📫 How to reach me: bimaafrizalmalna@student.uns.ac.id
+-  Visit my personal website: https://bimaafrizal.github.io/
 
 ### Connect with me:
 
