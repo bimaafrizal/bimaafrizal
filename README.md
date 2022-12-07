@@ -45,7 +45,7 @@
 ---
 
 
-
+<!--
 ### My GitHub Stats:
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bimaafrizal&show_icons=true&locale=en&layout=compact" alt="bimaafrizal" /></p>
@@ -55,6 +55,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bimaafrizal&" alt="bimaafrizal" /></p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bimaafrizal" alt="bimaafrizal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bimaafrizal" alt="bimaafrizal" /></a> </p> -->
 <!--
 **bimaafrizal/bimaafrizal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
