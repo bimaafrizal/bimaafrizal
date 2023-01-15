@@ -7,11 +7,18 @@
 <br>
 <!-- My name is Bima Afrizal Malna, just call me Bima -->
 
+<img align="right" style="margin-left: 10px" alt="GIF" src='https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif' width="30%">
 - 🔭 I’m currently studying at Sebelas Maret University 
+<br>
 - 🌱 I’m currently learning Java, SQL, Html, CSS, Javascript, Dart, Flutter, and PHP.
+<br>
 - 💬 Ask me about anything
+<br>
 - 📫 How to reach me: bimaafrizalmalna@student.uns.ac.id
+<br>
 -  Visit my personal website: https://bimaafrizal.github.io/
+
+
 
 ### Connect with me:
 
