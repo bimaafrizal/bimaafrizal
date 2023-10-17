@@ -10,7 +10,7 @@
 <img align="right" style="margin-left: 10px" alt="GIF" src='https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif' width="30%">
 - 🔭 I’m currently studying at Sebelas Maret University 
 <br>
-- 🌱 I’m currently learning Java, SQL, Html, CSS, Javascript, Dart, Flutter, and PHP.
+- 🌱 I’m currently learning Golang, MongoDB, and Docker.
 <br>
 - 💬 Ask me about anything
 <br>
@@ -41,8 +41,10 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![CodeIgnier](https://img.shields.io/badge/-CodeIgniter-black?style=for-the-badge&logo=codeigniter) 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Lumen](https://img.shields.io/badge/Lumen-e54537?style=for-the-badge&logo=lumen&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=e78c04)
+![Mongodb](https://img.shields.io/badge/Mongodb-ffffff?style=for-the-badge&logo=mongodb&logoColor=47a046)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
