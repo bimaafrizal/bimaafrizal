@@ -8,8 +8,6 @@
 <!-- My name is Bima Afrizal Malna, just call me Bima -->
 
 <img align="right" style="margin-left: 10px" alt="GIF" src='https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif' width="30%">
-<!-- - 🔭 I’m currently studying at Sebelas Maret University  -->
-<br>
 - 🌱 I’m currently learning Golang, MongoDB, and Docker.
 <br>
 - 💬 Ask me about anything
@@ -38,14 +36,14 @@
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)
-![Jquery](https://img.shields.io/badge/jquery-0268ae?style=for-the-badge&logo=Jqueryt&logoColor=white)
+![Jquery](https://img.shields.io/badge/jquery-0268ae?style=for-the-badge&logo=Jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![CodeIgnier](https://img.shields.io/badge/-CodeIgniter-black?style=for-the-badge&logo=codeigniter) 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Lumen](https://img.shields.io/badge/Lumen-e54537?style=for-the-badge&logo=lumen&logoColor=white)
 ![Go](https://img.shields.io/badge/go-6ad7e5?style=for-the-badge&logo=go&logoColor=white)
-![Echo](https://img.shields.io/badge/Echo-6ad7e5?style=for-the-badge&logo=echo&logoColor=white)
+![Echo](https://img.shields.io/badge/echo-6ad7e5?style=for-the-badge&logo=echo&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=e78c04)
 ![Mongodb](https://img.shields.io/badge/Mongodb-ffffff?style=for-the-badge&logo=mongodb&logoColor=47a046)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
