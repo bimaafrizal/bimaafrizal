@@ -44,6 +44,8 @@
 ![Lumen](https://img.shields.io/badge/Lumen-e54537?style=for-the-badge&logo=lumen&logoColor=white)
 ![Go](https://img.shields.io/badge/go-6ad7e5?style=for-the-badge&logo=go&logoColor=white)
 ![Echo](https://img.shields.io/badge/echo-6ad7e5?style=for-the-badge&logo=echo&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=00579D)
+![Flutter](https://img.shields.io/badge/flutter-white?style=for-the-badge&logo=flutter&logoColor=00579D)
 ![SQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=e78c04)
 ![Mongodb](https://img.shields.io/badge/Mongodb-ffffff?style=for-the-badge&logo=mongodb&logoColor=47a046)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
