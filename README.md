@@ -49,6 +49,7 @@
 ![SQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=e78c04)
 ![Mongodb](https://img.shields.io/badge/Mongodb-ffffff?style=for-the-badge&logo=mongodb&logoColor=47a046)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Rabbitmq](https://img.shields.io/badge/rabbitmq-F05032?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ---
 
 
