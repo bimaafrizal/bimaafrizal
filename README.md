@@ -47,7 +47,7 @@
 ![Echo](https://img.shields.io/badge/echo-6ad7e5?style=for-the-badge&logo=echo&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=00579D)
 ![Flutter](https://img.shields.io/badge/flutter-white?style=for-the-badge&logo=flutter&logoColor=00579D)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=blue)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=e78c04)
 ![Mongodb](https://img.shields.io/badge/Mongodb-ffffff?style=for-the-badge&logo=mongodb&logoColor=47a046)
