@@ -24,7 +24,7 @@
 [<img align="left" alt="Bima Afrizal Malna | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://instagram.com/bimaafrizal_
-[linkedin]: https://www.linkedin.com/in/bima-afrizal-malna-12033b145
+[linkedin]: https://www.linkedin.com/in/bima-afrizal-malna
 
 
 <br />
